@@ -901,7 +901,7 @@ Banner Style
 
 .main-banner:after {
   content: '';
-  background-image: url(../slider-left-dec.png);
+  background-image: url(slider-left-dec.png);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
